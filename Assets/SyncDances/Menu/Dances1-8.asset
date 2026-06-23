@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Dances1-8
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 5d32337ff795f404b9a2eafc4cad642a, type: 2}
+  controls:
+  - name: SAR
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Badgers!
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Random dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Distraction dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Yakuza  dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tengo un moco
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 6
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: CarsonSheerer
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 7
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: El bicho (THEDAO77)
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 14
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []

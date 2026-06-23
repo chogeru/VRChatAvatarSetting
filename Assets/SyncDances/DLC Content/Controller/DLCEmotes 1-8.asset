@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: DLCEmotes 1-8
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: d2f46590f646ee2469e390389ac0809f, type: 2}
+  controls:
+  - name: PikuNiku
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 101
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Nizmoo
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 102
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Blinding Lights
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 103
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: OverTheTop
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 104
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: BrainPower
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 105
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Do Da Flop
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 106
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Gay Frogs
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 108
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Pok\xE9 Dance"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 109
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

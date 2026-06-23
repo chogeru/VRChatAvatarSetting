@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpMenu_33-40
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: d756557a7bd2769449cf720ac4e00704, type: 2}
+  controls:
+  - name: Emote33
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 33
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote34
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 34
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote35
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 35
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote36
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 36
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote37
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 37
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote38
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 38
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote39
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 39
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote40
+    icon: {fileID: 2800000, guid: a9308f0c42a941247bbbb0f9e62e6614, type: 3}
+    type: 102
+    parameter:
+      name: NCCYEmotePlusInt
+    value: 40
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

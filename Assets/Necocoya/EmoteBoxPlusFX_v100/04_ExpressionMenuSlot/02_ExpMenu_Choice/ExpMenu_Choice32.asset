@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpMenu_Choice32
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: d756557a7bd2769449cf720ac4e00704, type: 2}
+  controls:
+  - name: Emote01-08
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a1e965f3432e6f44aad0b4a75fa8c742, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote09-16
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5dfd674c07c09cc4f9f4b2bbfb26c4cb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote17-24
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 531f8c8dffb394341884d0739432bc1f, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote25-32
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4c28f15a4b2eb5d49a7993c27ff35bbb, type: 2}
+    subParameters: []
+    labels: []
+  - name: "FX\u306A\u3057(Gestuer\u3067\u306E\u64CD\u4F5C)"
+    icon: {fileID: 2800000, guid: 22a690de41e98574fbf36d84a449a642, type: 3}
+    type: 102
+    parameter:
+      name: NC-EBP_NoFXBool
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a68f59339431cf944aaf06e63aa5b6fd, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u30ED\u30C3\u30AF(Emote\u3068\u9023\u52D5)"
+    icon: {fileID: 2800000, guid: 034f72a740b6ec5429401b22758cb44c, type: 3}
+    type: 102
+    parameter:
+      name: NC-EBP_CtrlLockBool
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a68f59339431cf944aaf06e63aa5b6fd, type: 2}
+    subParameters: []
+    labels: []

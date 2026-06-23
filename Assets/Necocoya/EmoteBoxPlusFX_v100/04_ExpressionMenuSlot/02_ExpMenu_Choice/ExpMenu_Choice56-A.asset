@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpMenu_Choice56-A
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: d756557a7bd2769449cf720ac4e00704, type: 2}
+  controls:
+  - name: Emote01-08
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a1e965f3432e6f44aad0b4a75fa8c742, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote09-16
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5dfd674c07c09cc4f9f4b2bbfb26c4cb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote17-24
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 531f8c8dffb394341884d0739432bc1f, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote25-32
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4c28f15a4b2eb5d49a7993c27ff35bbb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote33-40
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 54988e129c0211e40b652ba23e6deba5, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote41-48
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d72ecfb7f27c4274f837e1c75d40c77c, type: 2}
+    subParameters: []
+    labels: []
+  - name: Emote49-56
+    icon: {fileID: 2800000, guid: 88020858eee27a242907e791a43d02ed, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 29da33e71a038464c83b4373a431f29d, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30AA\u30D7\u30B7\u30E7\u30F3"
+    icon: {fileID: 2800000, guid: c31428b7a951eb04c8a8364ef7fcaf68, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 670166ff9ff5e804abea4a47bc760114, type: 2}
+    subParameters: []
+    labels: []

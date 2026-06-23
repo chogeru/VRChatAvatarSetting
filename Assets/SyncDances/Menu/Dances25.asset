@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Dances25
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 5d32337ff795f404b9a2eafc4cad642a, type: 2}
+  controls:
+  - name: SadCatDance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 37
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: Company dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 39
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: Springy
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 40
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: The pollo dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 41
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: LoliKami
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 42
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: Toothless dance
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 43
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: El Pescao
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 44
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []
+  - name: Spooky skeleton!
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: SyncDances
+    value: 45
+    style: 0
+    subMenu: {fileID: 11400000, guid: ef3a3f1388b740148abb8bbe815aeda3, type: 2}
+    subParameters: []
+    labels: []

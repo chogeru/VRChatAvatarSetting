@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.hhotatea.avatar-pose-library": {
+      "version": "file:com.hhotatea.avatar-pose-library",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.12",
       "depth": 1,
@@ -155,6 +161,18 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.vrcfury.temp": {
+      "version": "file:com.vrcfury.temp",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "file:com.vrcfury.vrcfury",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.vrchat.avatars": {
       "version": "file:com.vrchat.avatars",
       "depth": 0,
@@ -183,6 +201,40 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "file:dev.vrlabs.av3manager",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "file:jp.lilxyzw.liltoon",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "file:jp.suzuryg.face-emo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "file:nadena.dev.modular-avatar",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "file:nadena.dev.ndmf",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.modules.animation": "1.0.0"
       }
     },
     "com.unity.modules.ai": {

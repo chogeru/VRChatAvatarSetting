@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpMenu_Root56
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: d756557a7bd2769449cf720ac4e00704, type: 2}
+  controls:
+  - name: EmoteBox+FX56
+    icon: {fileID: 2800000, guid: 480948773bcfc3647b984ed1ea9621bf, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e795a6633ddaa4b41b4f8acc6e73515a, type: 2}
+    subParameters: []
+    labels: []
