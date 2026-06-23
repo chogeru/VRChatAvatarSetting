@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VRCExpressionsMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Emote
+    icon: {fileID: 2800000, guid: 011229dd2f6f5f64f8965a08d3434654, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d47cf86cba1adfb42bf21a9e79fb372c, type: 2}
+    subParameters: []
+    labels: []
+  - name: EX-Menu
+    icon: {fileID: 2800000, guid: af1ba8919b0ccb94a99caf43ac36f97d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0dcdf80f80dfdb143b7f495872b9b272, type: 2}
+    subParameters: []
+    labels: []
+  - name: Love
+    icon: {fileID: 2800000, guid: 0539e25eba635ce41a401580788a2c77, type: 3}
+    type: 102
+    parameter:
+      name: Love
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Items
+    icon: {fileID: 2800000, guid: 70532155452b91149bd82125c362ca6b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 96957dcd138eaaa45983f75f40900aa4, type: 2}
+    subParameters: []
+    labels: []
+  - name: Clothes
+    icon: {fileID: 2800000, guid: 0ff9333af28b8224893850e22c95e496, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 7169f2698df994a46bb4367cd4e318a0, type: 2}
+    subParameters: []
+    labels: []
