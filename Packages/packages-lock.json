@@ -221,6 +221,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "lyuma.av3emulator": {
+      "version": "file:lyuma.av3emulator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
       "depth": 0,
@@ -236,6 +242,12 @@
       "dependencies": {
         "com.unity.modules.animation": "1.0.0"
       }
+    },
+    "ooo.beko.vrc-heart-rate": {
+      "version": "file:ooo.beko.vrc-heart-rate",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: NextPage_2
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Speed
+    icon: {fileID: 2800000, guid: fbaf4563bc1a11246aee4df78ea934bf, type: 3}
+    type: 203
+    parameter:
+      name: EC/OpenRadial
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: EC/Speed
+    labels: []
+  - name: AllReset
+    icon: {fileID: 2800000, guid: 1f2897bfcdf511f49bce151aa226756e, type: 3}
+    type: 101
+    parameter:
+      name: EC/AllReset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 81-88
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: cb1d52a719f09fa45a642742d9c908dd, type: 2}
+    subParameters: []
+    labels: []
+  - name: 89-96
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: eda3ae8120b750f4c8125af3e683c253, type: 2}
+    subParameters: []
+    labels: []
+  - name: 97-104
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 92694d4c5e0fce6428be127c0fa6cb34, type: 2}
+    subParameters: []
+    labels: []
+  - name: 105-112
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e4ae201cbe18948469b6434006b5c391, type: 2}
+    subParameters: []
+    labels: []
+  - name: 113-120
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f606a242e975b2148aa76ac35b53400b, type: 2}
+    subParameters: []
+    labels: []
+  - name: 121-128
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 00a617b1fd6df1b41b698643e9ac006d, type: 2}
+    subParameters: []
+    labels: []

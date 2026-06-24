@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExParameter_SOM_2.0
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: SOM_2.0/Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0.15
+    networkSynced: 0
+  - name: SOM_2.0/PositionX
+    valueType: 1
+    saved: 1
+    defaultValue: -0.45
+    networkSynced: 0
+  - name: SOM_2.0/PositionY
+    valueType: 1
+    saved: 1
+    defaultValue: -0.6
+    networkSynced: 0
+  - name: SOM_2.0/C1/Active
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C1/AngleX
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C1/AngleY
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C1/Face
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C2/Active
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C2/AngleX
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/C2/AngleY
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 0
+  - name: SOM_2.0/C2/Face
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: SOM_2.0/Transparency
+    valueType: 1
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: SOM_2.0/Mirror
+    valueType: 2
+    saved: 1
+    defaultValue: 1
+    networkSynced: 0
+  - name: SOM_2.0/Clipping
+    valueType: 1
+    saved: 1
+    defaultValue: 0.5
+    networkSynced: 0
+  - name: SOM_2.0/Distance
+    valueType: 1
+    saved: 1
+    defaultValue: 0.3
+    networkSynced: 0
+  - name: SOM_2.0/HeadHeight
+    valueType: 1
+    saved: 1
+    defaultValue: 0.2
+    networkSynced: 0

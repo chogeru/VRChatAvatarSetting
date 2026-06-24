@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Emote_97-104
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Emote_97
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 97
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_98
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 98
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_99
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 99
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_100
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 100
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_101
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 101
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_102
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 102
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_103
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 103
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Emote_104
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 104
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

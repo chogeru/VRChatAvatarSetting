@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: FingerLightMenu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: "\u53F3\u624B\u30E9\u30A4\u30C8 \u30AA\u30F3"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: RightFingerLightGimmikOn
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5DE6\u624B\u30E9\u30A4\u30C8 \u30AA\u30F3"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: LeftFingerLightGimmikOn
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u53F3\u624B\u30E9\u30A4\u30C8 \u5E38\u6642"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: RightFingerLightForced
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5DE6\u624B\u30E9\u30A4\u30C8 \u5E38\u6642"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: LeftFingerLightForced
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u61D0\u4E2D\u96FB\u706F\u30E2\u30FC\u30C9"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: FingerSpotLightOn
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5F37\u3055\u8ABF\u7BC0"
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 9f9eed11faee76f47b407abcfca5dd0d, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30AA\u30D7\u30B7\u30E7\u30F3"
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 58f6465b22089e7409c678f2c21ef052, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30ED\u30FC\u30AB\u30EB\u30E2\u30FC\u30C9"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: FingerLightMenuLocalOn
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 58f6465b22089e7409c678f2c21ef052, type: 2}
+    subParameters: []
+    labels: []

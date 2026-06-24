@@ -26,6 +26,9 @@
     },
     "nadena.dev.modular-avatar": {
       "version": "1.17.1"
+    },
+    "ooo.beko.vrc-heart-rate": {
+      "version": "1.0.5"
     }
   },
   "locked": {
@@ -77,6 +80,14 @@
     },
     "jp.suzuryg.face-emo": {
       "version": "1.7.0"
+    },
+    "ooo.beko.vrc-heart-rate": {
+      "version": "1.0.5",
+      "dependencies": {
+        "com.vrchat.base": ">=3.7.0",
+        "nadena.dev.ndmf": ">=1.8.0",
+        "nadena.dev.modular-avatar": ">=1.10.0"
+      }
     }
   }
 }

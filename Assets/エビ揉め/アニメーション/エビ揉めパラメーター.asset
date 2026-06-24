@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u30A8\u30D3\u63C9\u3081\u30D1\u30E9\u30E1\u30FC\u30BF\u30FC"
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: Ebimome
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 0

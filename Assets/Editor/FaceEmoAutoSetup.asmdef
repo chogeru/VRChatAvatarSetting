@@ -1,0 +1,24 @@
+{
+    "name": "FaceEmoAutoSetup.Editor",
+    "references": [
+        "jp.suzuryg.face-emo.appmain.Editor",
+        "jp.suzuryg.face-emo.domain.Runtime",
+        "jp.suzuryg.face-emo.components.Runtime",
+        "jp.suzuryg.face-emo.usecase.Runtime",
+        "jp.suzuryg.face-emo.external.mathijs-bakker.extenject.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VRCSDKBase.dll",
+        "VRCSDK3A.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

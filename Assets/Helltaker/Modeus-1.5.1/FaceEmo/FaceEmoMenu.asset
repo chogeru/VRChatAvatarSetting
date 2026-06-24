@@ -1,0 +1,719 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8295655199906191841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_01a1d458a17841f48463a6c4b2d651da
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B6_Saliva
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -6162674711789319885}
+  Branches: []
+--- !u!114 &-8165189876455448624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_fe926a6ae26d4c5986b519c5f6412714
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A8_Muse
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -5381611512865601907}
+  Branches: []
+--- !u!114 &-8080090782673149285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_f45b0482c6fd3df4c9596e5221a5f512
+  m_EditorClassIdentifier: 
+  GUID: f45b0482c6fd3df4c9596e5221a5f512
+--- !u!114 &-7110102422418083228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd2295b21600dea45bf32e23f7c95ac4, type: 3}
+  m_Name: Registered
+  m_EditorClassIdentifier: 
+  Types: 010000000100000001000000
+  Ids:
+  - 685f3a622d89495c859a83035ac58011
+  - 60f391c912a74fb1ac554ca06affb066
+  - adb8f075bb3d49ecb25e41f871fe516f
+  Modes: []
+  Groups:
+  - {fileID: 6180800160489127101}
+  - {fileID: 1903404627518659606}
+  - {fileID: 6153205529276802829}
+--- !u!114 &-6799272208352996965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_eef5f7967af3438582fb201def78a593
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A4_Sorrow
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 4162462137197528688}
+  Branches: []
+--- !u!114 &-6162674711789319885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_acff092ae0ddce9468bd71502c8b4694
+  m_EditorClassIdentifier: 
+  GUID: acff092ae0ddce9468bd71502c8b4694
+--- !u!114 &-5542991681397365684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_81bb33523d8283645ae0e36cd93773a9
+  m_EditorClassIdentifier: 
+  GUID: 81bb33523d8283645ae0e36cd93773a9
+--- !u!114 &-5381611512865601907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_97f982f59da947248a9b42ed7e475207
+  m_EditorClassIdentifier: 
+  GUID: 97f982f59da947248a9b42ed7e475207
+--- !u!114 &-5112248508863003895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_19e761738f4541e1bb7e71120dc3cd04
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A1_General
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -3239370346029049975}
+  Branches: []
+--- !u!114 &-4575523124917771307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_23f5ae63072db0447a1d1c99634a3516
+  m_EditorClassIdentifier: 
+  GUID: 23f5ae63072db0447a1d1c99634a3516
+--- !u!114 &-4119868873525097917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_d071bf5f131418f4fb8605c3f824c847
+  m_EditorClassIdentifier: 
+  GUID: d071bf5f131418f4fb8605c3f824c847
+--- !u!114 &-3239370346029049975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_efcc766a0b7060b4daaa7f96db2908f9
+  m_EditorClassIdentifier: 
+  GUID: efcc766a0b7060b4daaa7f96db2908f9
+--- !u!114 &-3055465185919328099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_94b5995b305a448cb90e66b56400b82e
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B4_Shy
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -8080090782673149285}
+  Branches: []
+--- !u!114 &-2546046853968496841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_5e26c1fb2ca04290ac8cea39bd8f4257
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: Love
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 5453162604930100381}
+  Branches: []
+--- !u!114 &-1949881415754633360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_59ea78d3b1514014185d54f9dc55595c
+  m_EditorClassIdentifier: 
+  GUID: 59ea78d3b1514014185d54f9dc55595c
+--- !u!114 &-1341628845050343224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_54ee7d1afe9344cb86a1c268aee86043
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A7_Love_eye
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -1949881415754633360}
+  Branches: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9647093156341204ebc7009fd5eb82fe, type: 3}
+  m_Name: FaceEmoMenu
+  m_EditorClassIdentifier: 
+  Version: 1
+  DefaultSelection: 19e761738f4541e1bb7e71120dc3cd04
+  Registered: {fileID: -7110102422418083228}
+  Unregistered: {fileID: 2867770380211270451}
+--- !u!114 &182092852954954124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_9800dc0bc43c1a347a61e03d9440db4c
+  m_EditorClassIdentifier: 
+  GUID: 9800dc0bc43c1a347a61e03d9440db4c
+--- !u!114 &303919057105135191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_95ceaaffc0ec4dfa9c6cd18dc32a8921
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A5_Joy
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 5965498690666587961}
+  Branches: []
+--- !u!114 &530847999275960115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_022a2a5d6e54428181776e1c27646935
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A2_Fun
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -4119868873525097917}
+  Branches: []
+--- !u!114 &736250620930192125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_43fdf6f01fa148fb9de49f6590586fa5
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B5_Dark
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -4575523124917771307}
+  Branches: []
+--- !u!114 &1903404627518659606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c08764e51db88f429233363a86a2ca0, type: 3}
+  m_Name: Group_60f391c912a74fb1ac554ca06affb066
+  m_EditorClassIdentifier: 
+  Types: 0000000000000000000000000000000000000000000000000000000000000000
+  Ids:
+  - ec9ec2114aa14c4bb33120517a24ee0a
+  - 06927d0d457e438c921d9be1932e0269
+  - 72fba40e9fb9495ca7c4794dbafa716b
+  - 94b5995b305a448cb90e66b56400b82e
+  - 43fdf6f01fa148fb9de49f6590586fa5
+  - 01a1d458a17841f48463a6c4b2d651da
+  - d77a33e9caae401d84e1cb637719dcfe
+  - 9fbf0fb6c1d343eb8c14ab09175b3d45
+  Modes:
+  - {fileID: 4542125119428474909}
+  - {fileID: 5304310810509804001}
+  - {fileID: 6282460788869104221}
+  - {fileID: -3055465185919328099}
+  - {fileID: 736250620930192125}
+  - {fileID: -8295655199906191841}
+  - {fileID: 4357170337152391763}
+  - {fileID: 5976547128438658186}
+  Groups: []
+  DisplayName: B
+--- !u!114 &2867770380211270451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 276dbe76146125d448c6a6508e4d30bd, type: 3}
+  m_Name: UnRegistered
+  m_EditorClassIdentifier: 
+  Types: 
+  Ids: []
+  Modes: []
+  Groups: []
+--- !u!114 &4162462137197528688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_1dfccc1cc0d79a54d9e80805820a5732
+  m_EditorClassIdentifier: 
+  GUID: 1dfccc1cc0d79a54d9e80805820a5732
+--- !u!114 &4357170337152391763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_d77a33e9caae401d84e1cb637719dcfe
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B7_Kiss
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: -5542991681397365684}
+  Branches: []
+--- !u!114 &4542125119428474909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_ec9ec2114aa14c4bb33120517a24ee0a
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B1_Nervous
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 182092852954954124}
+  Branches: []
+--- !u!114 &5304310810509804001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_06927d0d457e438c921d9be1932e0269
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B2_Suspect
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 5746664108299996602}
+  Branches: []
+--- !u!114 &5453162604930100381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_3d0ceb1d574aba94dbfabbf286cd8618
+  m_EditorClassIdentifier: 
+  GUID: 3d0ceb1d574aba94dbfabbf286cd8618
+--- !u!114 &5746664108299996602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_ae6160decb7191a408d603bd489e3570
+  m_EditorClassIdentifier: 
+  GUID: ae6160decb7191a408d603bd489e3570
+--- !u!114 &5965498690666587961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_2caa986507b777843b6c14dde48dac7e
+  m_EditorClassIdentifier: 
+  GUID: 2caa986507b777843b6c14dde48dac7e
+--- !u!114 &5976547128438658186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_9fbf0fb6c1d343eb8c14ab09175b3d45
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B8_Hot
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 7571521098466097406}
+  Branches: []
+--- !u!114 &6153205529276802829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c08764e51db88f429233363a86a2ca0, type: 3}
+  m_Name: Group_adb8f075bb3d49ecb25e41f871fe516f
+  m_EditorClassIdentifier: 
+  Types: 00000000
+  Ids:
+  - 5e26c1fb2ca04290ac8cea39bd8f4257
+  Modes:
+  - {fileID: -2546046853968496841}
+  Groups: []
+  DisplayName: C
+--- !u!114 &6180800160489127101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c08764e51db88f429233363a86a2ca0, type: 3}
+  m_Name: Group_685f3a622d89495c859a83035ac58011
+  m_EditorClassIdentifier: 
+  Types: 0000000000000000000000000000000000000000000000000000000000000000
+  Ids:
+  - 19e761738f4541e1bb7e71120dc3cd04
+  - 022a2a5d6e54428181776e1c27646935
+  - a973d12e000d432cae7b98760f8483b9
+  - eef5f7967af3438582fb201def78a593
+  - 95ceaaffc0ec4dfa9c6cd18dc32a8921
+  - 314a7212272f4ce88d087a0dce29302d
+  - 54ee7d1afe9344cb86a1c268aee86043
+  - fe926a6ae26d4c5986b519c5f6412714
+  Modes:
+  - {fileID: -5112248508863003895}
+  - {fileID: 530847999275960115}
+  - {fileID: 7436078768028355289}
+  - {fileID: -6799272208352996965}
+  - {fileID: 303919057105135191}
+  - {fileID: 7031459590703904921}
+  - {fileID: -1341628845050343224}
+  - {fileID: -8165189876455448624}
+  Groups: []
+  DisplayName: A
+--- !u!114 &6282460788869104221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_72fba40e9fb9495ca7c4794dbafa716b
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: B3_Strive
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 8734280360689200283}
+  Branches: []
+--- !u!114 &7031459590703904921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_314a7212272f4ce88d087a0dce29302d
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A6_Surprised
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 7584932532439524939}
+  Branches: []
+--- !u!114 &7436078768028355289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ee80d5507582354ea3b42e7d62fc751, type: 3}
+  m_Name: Mode_a973d12e000d432cae7b98760f8483b9
+  m_EditorClassIdentifier: 
+  ChangeDefaultFace: 0
+  DisplayName: A3_Angry
+  UseAnimationNameAsDisplayName: 0
+  EyeTrackingControl: 0
+  MouthTrackingControl: 0
+  BlinkEnabled: 1
+  MouthMorphCancelerEnabled: 1
+  Animation: {fileID: 7991281459525647666}
+  Branches: []
+--- !u!114 &7571521098466097406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_ef6210b19b756dd4d99caa69fd9baf87
+  m_EditorClassIdentifier: 
+  GUID: ef6210b19b756dd4d99caa69fd9baf87
+--- !u!114 &7584932532439524939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_2c97e970c086e7744a73cb0c2f81888d
+  m_EditorClassIdentifier: 
+  GUID: 2c97e970c086e7744a73cb0c2f81888d
+--- !u!114 &7991281459525647666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_a5e9a5cc1968e824c8fd62257c0d6946
+  m_EditorClassIdentifier: 
+  GUID: a5e9a5cc1968e824c8fd62257c0d6946
+--- !u!114 &8734280360689200283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a95bc36ddef3d458cba0494a3fc3c7, type: 3}
+  m_Name: Animation_2b483b3e983b64347bdf9171a231b955
+  m_EditorClassIdentifier: 
+  GUID: 2b483b3e983b64347bdf9171a231b955

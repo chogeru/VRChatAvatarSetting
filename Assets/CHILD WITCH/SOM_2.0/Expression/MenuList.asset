@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: MenuList
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Main_On
+    icon: {fileID: 2800000, guid: 78978a971460a1743b23c953d7abe108, type: 3}
+    type: 102
+    parameter:
+      name: SOM_2.0/C1/Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sub_On
+    icon: {fileID: 2800000, guid: 3412e0a3f344f014299edd936c280ca1, type: 3}
+    type: 102
+    parameter:
+      name: SOM_2.0/C2/Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Main_Setting
+    icon: {fileID: 2800000, guid: 6d00ce6a16e23fc4a86de3a5fd66af37, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5a704a551d09d144591d2c5bb3178c5e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sub_Setting
+    icon: {fileID: 2800000, guid: 88172d7ec80378f4c91cd64ff8921b11, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 39de69bf85d9b864b9fe395aeecb61eb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Monitor_Setting
+    icon: {fileID: 2800000, guid: 5368717d6e85ffe4187820492426e6d9, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: b07a7aa5939b7604d81ea5e28d07840f, type: 2}
+    subParameters: []
+    labels: []
+  - name: Child_Setting
+    icon: {fileID: 2800000, guid: 3cbf95fed8fbba94db3325d9161a7c35, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3ceae51a448a6b642b9a00b6e9a3ee56, type: 2}
+    subParameters: []
+    labels: []

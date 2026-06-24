@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Emote_9-16(Relax)
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Sleep_Up
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 9
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_Sprawled
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 10
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_Right
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 11
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_Left
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 12
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sleep_Down
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 13
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_Girly
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 14
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_Spread
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 15
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sit_KneeBend
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EC/Emote
+    value: 16
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
